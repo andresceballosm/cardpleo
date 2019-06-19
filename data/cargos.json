@@ -1,0 +1,21 @@
+[  
+    {  
+        "id":0,
+        "area":"Restaurantes",
+        "cargos":[  
+            "Mesero",
+            "Barman",
+            "Domicilios",
+            "Chef",
+            "Cocinero"
+        ]
+    },
+    {  
+        "id":1,
+        "area":"Oficinas",
+        "cargos":[  
+            "Limpieza",
+            "Mantenimiento"
+        ]
+    }
+]
